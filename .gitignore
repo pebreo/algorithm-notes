@@ -2,3 +2,4 @@ node_modules/
 *.pyc
 *.swp
 .idea/
+.ipynb_checkpoints/
